@@ -1,4 +1,4 @@
-### Hi there, My names is Ryan 👋
+### Hi there, I'm Ryan 👋
 
 - 🌱 I’m currently learning Mobile development, Front-end development.
 - 💬 Ask me about anything. 😊
