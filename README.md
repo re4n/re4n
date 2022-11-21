@@ -1,10 +1,10 @@
 ### Hi there, My names is Ryan 👋
 
 - 🌱 I’m currently learning Mobile development, Front-end development.
-- 💬 Ask me about Games 😊
+- 💬 Ask me about anything. 😊
 - 📫 How to reach me: ryanrouxinol17@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: My favorite food is Strogonoff
+- ⚡ Fun fact: I like to draw.
 
 
 -->
