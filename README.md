@@ -4,17 +4,20 @@
 <p align="left"> 
 - 🌱 I’m currently learning Mobile development, Front-end development.<br>
 - 😄 Pronouns: he/him.<br>
+- 📫 Text me: ryanrouxinol17@gmail.com
 - 📖 Studying Computer Science.<br>
 - 🔎 How to reach me.⤵️<br>
-
-<a href='mailto:ryanrouxinol17@gmail.com?subject=Hello there!' alt='gmail'>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</img></a>
 
 <a href='https://www.linkedin.com/in/ryanvilela/' alt='linkedin'>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</img></a>
 
 <a href='https://leetcode.com/_re4n/' alt='leetcode'>
 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"</img></a>
+  
+<a href='https://www.codecademy.com/profiles/re4n' alt='codecademy'>
+<img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"</img></a>
+  
+
 
 
 </p>
