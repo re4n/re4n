@@ -1,10 +1,10 @@
 ### Hi there, I'm Ryan 👋
 
-<img src="https://user-images.githubusercontent.com/54184206/209454773-bf43cc02-7b52-486c-9ea8-d2c7e2b5e85a.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"><br>
-
+<img src="https://user-images.githubusercontent.com/54184206/209454773-bf43cc02-7b52-486c-9ea8-d2c7e2b5e85a.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left"> 
 - 🌱 I’m currently learning Mobile development, Front-end development.<br>
 - 😄 Pronouns: he/him<br>
+- 📖 Studying computer science<br>
 - 🔎 How to reach me⤵️<br>
 
 <a href='https://www.linkedin.com/in/ryanvilela/' alt='linkedin'>
@@ -19,7 +19,7 @@
 
 </p>
 
-## Analytics 📺
+## Analytics 👜
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=re4n&theme=radical&show_icons=true"min-width="400px" max-width="350px" width="350px" align="left"</img>
