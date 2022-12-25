@@ -4,7 +4,7 @@
 <p align="left"> 
 - 🌱 I’m currently learning Mobile development, Front-end development.<br>
 - 😄 Pronouns: he/him.<br>
-- 📫 Text me: ryanrouxinol17@gmail.com
+- 📫 Text me: ryanrouxinol17@gmail.com<br>
 - 📖 Studying Computer Science.<br>
 - 🔎 How to reach me.⤵️<br>
 
