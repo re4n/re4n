@@ -3,9 +3,9 @@
 <img src="https://user-images.githubusercontent.com/54184206/209454773-bf43cc02-7b52-486c-9ea8-d2c7e2b5e85a.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left"> 
 - 🌱 I’m currently learning Mobile development, Front-end development.<br>
-- 😄 Pronouns: he/him<br>
-- 📖 Studying Computer Science<br>
-- 🔎 How to reach me⤵️<br>
+- 😄 Pronouns: he/him.<br>
+- 📖 Studying Computer Science.<br>
+- 🔎 How to reach me.⤵️<br>
 
 <a href='https://www.linkedin.com/in/ryanvilela/' alt='linkedin'>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</img></a>
