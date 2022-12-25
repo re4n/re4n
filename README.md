@@ -19,7 +19,7 @@
 
 </p>
 
-## Overview
+## Analytics 📺
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=re4n&theme=radical&show_icons=true"min-width="400px" max-width="350px" width="350px" align="left"</img>
@@ -31,7 +31,7 @@
 <br><br><br><br><br><br>
 
 
-## Skills
+## Skills 💪
 <p align='center'>FRONT-END</p>
 <p align='center'>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"</img>
