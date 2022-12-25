@@ -4,7 +4,7 @@
 <p align="left"> 
 - 🌱 I’m currently learning Mobile development, Front-end development.<br>
 - 😄 Pronouns: he/him<br>
-- 📖 Studying computer science<br>
+- 📖 Studying Computer Science<br>
 - 🔎 How to reach me⤵️<br>
 
 <a href='https://www.linkedin.com/in/ryanvilela/' alt='linkedin'>
