@@ -13,12 +13,6 @@
 
 <a href='https://leetcode.com/_re4n/' alt='leetcode'>
 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"</img></a>
-  
-<a href='https://www.codecademy.com/profiles/re4n' alt='codecademy'>
-<img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"</img></a>
-  
-
-
 
 </p>
 
