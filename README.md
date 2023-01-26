@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/54184206/213884158-ed20747f-9b9c-4396-99c1-2f6349066b6e.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Hello world">
 <p align="left"> 
-- 🌱 I’m currently learning Mobile development, Front-end development.<br>
+- 🌱 I’m currently learning Mobile development.<br>
 - 😄 Pronouns: he/him.<br>
 - 📫 Text me: ryanrouxinol17@gmail.com<br>
 - 📖 Studying Computer Science.<br>
