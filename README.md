@@ -16,18 +16,6 @@
 
 </p>
 
-## Analytics 👜
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=re4n&theme=radical&show_icons=true"min-width="400px" max-width="350px" width="350px" align="left"</img>
-</div>
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=radical"min-width="400px" max-width="350px" width="350px" align="right"</img>
-</div>
-<br><br><br><br><br><br>
-
-
 ## Skills 💪
 <p align='center'>FRONT-END</p>
 <p align='center'>
