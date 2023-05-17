@@ -16,7 +16,7 @@
 
 </p>
 
-## Skills 💪
+<!-- ## Skills 💪
 <p align='center'>FRONT-END</p>
 <p align='center'>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"</img>
@@ -31,7 +31,7 @@
 <p align='center'>MOBILE</p>
 <p align='center'>
 <img alt='' src='https://img.shields.io/badge/Studying-100000?style=for-the-badge&logo=&logoColor=000000&labelColor=000000&color=323330'</a>
-</p>
+</p> -->
 
 
 ##
