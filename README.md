@@ -11,8 +11,8 @@
 <a href='https://www.linkedin.com/in/ryanvilela/' alt='linkedin'>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</img></a>
 
-<a href='https://leetcode.com/_re4n/' alt='leetcode'>
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"</img></a>
+<!-- <a href='https://leetcode.com/_re4n/' alt='leetcode'>
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"</img></a> -->
 
 </p>
 
