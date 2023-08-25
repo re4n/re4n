@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Mobile development.<br>
 - 😄 Pronouns: he/him.<br>
 - 📫 Text me: ryanrouxinol17@gmail.com<br>
-- 📖 Studying Computer Science.<br>
+- 📖 Bachelor's degree in computer science.<br>
 - 🔎 How to reach me.⤵️<br>
 
 <a href='https://www.linkedin.com/in/ryanvilela/' alt='linkedin'>
