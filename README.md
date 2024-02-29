@@ -4,7 +4,6 @@
 <p align="left"> 
 - 🌱 I’m currently learning iOS development.<br>
 - 😄 Pronouns: he/him.<br>
-- 📫 Text me: ryanrouxinol17@gmail.com<br>
 - 📖 Bachelor's degree in computer science.<br>
 - 🔎 How to reach me.⤵️<br>
 
