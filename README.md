@@ -1,6 +1,6 @@
 ```swift
  func aboutMe() {
-        let currentStudyBranch = "iOS Development and Java"
+        var currentStudyBranch: [String] = ["iOS Development", "Java Development", "Database modeling"]
         let currentBachelorDegree = "Computer Science"
         let linkedIn = "linkedin.com/in/rouxinol"
         let email = "r.rouxinol02@gmail.com"
