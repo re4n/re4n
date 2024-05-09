@@ -8,7 +8,7 @@
         var languages = [
             "English": "B2",
             "French": "A2",
-            "Japanese": "A1"
+            "Japanese": "N5"
         ]
 
     }
