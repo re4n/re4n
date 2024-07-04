@@ -8,7 +8,6 @@
         var languages = [
             "English": "B2",
             "French": "A2",
-            "Japanese": "N5"
         ]
 
     }
